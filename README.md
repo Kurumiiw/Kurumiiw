@@ -10,9 +10,9 @@ Currently, I'm an undergraduate student at [NTNU](https://www.ntnu.edu/) persuin
 ----
 
 Usually, I'm doing something related to:
-- 💻 Web-development
+- 💻 React / Next
 - 👨‍🔬 Low-level / embedded systems
-- ㊗️ Japanese and language (and anime!)
+- 🪶 Virtual YouTubers
 - 🚀 Physics simulation and graphical software
 - 🎮 Games and music (usually, combined! 🥁)
 
