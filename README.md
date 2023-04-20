@@ -1,5 +1,5 @@
 ## ~ヾ(・ω・) 
-Hello! I'm **Kurumii**! Nice to meet you! 
+Hello! I'm **Ola**! Nice to meet you!
 
 👉 Currently, I'm an undergraduate student at [NTNU](https://www.ntnu.edu/) persuing a degree in [informatics](https://en.wikipedia.org/wiki/Informatics#:~:text=Accordingly%2C%20universities%20in%20continental%20Europe%20usually%20translate%20%22informatics%22%20as%20computer%20science%2C%20or%20sometimes%20information%20and%20computer%20science%2C%20although%20technical%20universities%20may%20translate%20it%20as%20computer%20science%20%26%20engineering.) (computer science). But first and foremost, I'm a self-proclaimed *massive* nerd.
 
