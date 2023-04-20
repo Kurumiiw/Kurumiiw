@@ -5,7 +5,7 @@ Hello! I'm **Ola**! Nice to meet you!
 
 🧑‍🎓 During my time as a student, I've been involved in various technology-focused projects. From designing an education-focused computer processor from scratch based on the [MOS Technology 6502](https://en.wikipedia.org/wiki/MOS_Technology_6502) at [Hackerspace NTNU](https://www.hackerspace-ntnu.no/), all the way to writing embedded system software code for satellites at [Orbit NTNU](https://orbitntnu.com/).
 
-I've previously worked at [The Norwegian Tax Administration](https://www.skatteetaten.no/en/person/) as a front-end developer for their AI summer student project 2022.
+I've previously worked as an intern at [The Norwegian Tax Administration](https://www.skatteetaten.no/en/person/) as a front-end developer for their AI summer student project 2022.
 
 ![coffee](https://user-images.githubusercontent.com/15821339/188270649-4822f974-3eae-4769-bbf5-6e8006b4fe93.gif)
 
