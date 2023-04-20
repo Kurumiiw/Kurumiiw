@@ -18,6 +18,6 @@ Usually, you can find me doing something related to:
 - 👨‍🔬 Computer architecture & low-level programming
 - 🪶 Virtual YouTubers
 - 🚀 Simulation and graphical software
-- 🎮 Games and music (usually, combined! 🥁 *I'm not a music composer though, I just really like music!*)
+- 🎮 Games, game development and music (usually, combined! 🥁 *I'm not a music composer though, I just really like music!*)
 
 *Psst!* Want to get in touch? 👉 [ola@horgjacobsen.no](mailto:ola@horgjacobsen.no)
