@@ -16,7 +16,7 @@ I've previously worked as an intern at [The Norwegian Tax Administration](https:
 Usually, you can find me doing something related to:
 - 💻 Front-end work (primarily React / Next)
 - 👨‍🔬 Computer architecture & low-level programming
-- 🪶 Virtual YouTubers
+- 🪶 [Otaku](https://en.wikipedia.org/wiki/Otaku) related projects
 - 🚀 Simulation and graphical software
 - 🎮 Games, game development and music (usually, combined! 🥁 *I'm not a music composer though, I just really like music!*)
 
