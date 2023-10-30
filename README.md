@@ -5,7 +5,7 @@ Hello! I'm **Ola**! Nice to meet you!
 
 My bachelor's thesis was done in collaboration with the [Norwegian Defence Research Establishment](https://www.ffi.no/en), on the topic of reliable communication protocols for use in constrained military networks. The code and report can be found [here](https://github.com/Kurumiiw/Middleware/). 
 
-🧑‍🎓 During my time as a student, I've been involved in various technology-focused projects. From designing a computer processor from scratch based on the [MOS Technology 6502](https://en.wikipedia.org/wiki/MOS_Technology_6502) at [Hackerspace NTNU](https://www.hackerspace-ntnu.no/) as an educational tool to explain computer technology, all the way to writing embedded system software code for satellites at [Orbit NTNU](https://orbitntnu.com/).
+🧑‍🎓 During my time as a student, I have been involved in various technology-focused projects. From designing a computer processor from scratch based on the [MOS Technology 6502](https://en.wikipedia.org/wiki/MOS_Technology_6502) at [Hackerspace NTNU](https://www.hackerspace-ntnu.no/) as an educational tool to explain computer technology, all the way to writing embedded system software code for satellites at [Orbit NTNU](https://orbitntnu.com/).
 
 I have previously worked as an intern at [Bekk](https://www.bekk.no/), a company focusing on IT, design, and business management consulting. I worked as a full-stack developer on one of their internal projects. Moreover, during the summer of 2022 I had an internship at [The Norwegian Tax Administration](https://www.skatteetaten.no/en/person/) as a front-end developer for their summer AI project.
 
