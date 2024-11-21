@@ -1,7 +1,7 @@
 ## ~ヾ(・ω・) 
 Hello! I'm **Ola**! Nice to meet you!
 
-👉 I have a B.Sc. in [informatics](https://en.wikipedia.org/wiki/Informatics#:~:text=Accordingly%2C%20universities%20in%20continental%20Europe%20usually%20translate%20%22informatics%22%20as%20computer%20science%2C%20or%20sometimes%20information%20and%20computer%20science%2C%20although%20technical%20universities%20may%20translate%20it%20as%20computer%20science%20%26%20engineering.) (computer science), and currently I am a student at [NTNU](https://www.ntnu.edu/) persuing a M.Sc. in informatics, specializing in interaction design, game & learning technology. But first and foremost, I'm a self-proclaimed *massive* nerd.
+👉 I have a B.Sc. in [informatics](https://en.wikipedia.org/wiki/Informatics#:~:text=Accordingly%2C%20universities%20in%20continental%20Europe%20usually%20translate%20%22informatics%22%20as%20computer%20science%2C%20or%20sometimes%20information%20and%20computer%20science%2C%20although%20technical%20universities%20may%20translate%20it%20as%20computer%20science%20%26%20engineering.) (computer science), and currently I am a student at [NTNU](https://www.ntnu.edu/) persuing a M.Sc. in informatics, specializing in game technology. But first and foremost, I'm a self-proclaimed *massive* nerd.
 
 My bachelor's thesis was done in collaboration with the [Norwegian Defence Research Establishment](https://www.ffi.no/en), on the topic of reliable communication protocols for use in constrained military networks. The code and report can be found [here](https://github.com/Kurumiiw/Middleware/). 
 
