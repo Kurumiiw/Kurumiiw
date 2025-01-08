@@ -1,7 +1,7 @@
 ## ~ヾ(・ω・) 
 Hello! I'm **Ola**! Nice to meet you!
 
-👉 I have a B.Sc. in [informatics](https://en.wikipedia.org/wiki/Informatics#:~:text=Accordingly%2C%20universities%20in%20continental%20Europe%20usually%20translate%20%22informatics%22%20as%20computer%20science%2C%20or%20sometimes%20information%20and%20computer%20science%2C%20although%20technical%20universities%20may%20translate%20it%20as%20computer%20science%20%26%20engineering.) (computer science), and currently I am a student at [NTNU](https://www.ntnu.edu/) persuing a M.Sc. in informatics, specializing in game technology. But first and foremost, I'm a self-proclaimed *massive* nerd.
+👉 I have a B.Sc. in [informatics](https://en.wikipedia.org/wiki/Informatics#:~:text=Accordingly%2C%20universities%20in%20continental%20Europe%20usually%20translate%20%22informatics%22%20as%20computer%20science%2C%20or%20sometimes%20information%20and%20computer%20science%2C%20although%20technical%20universities%20may%20translate%20it%20as%20computer%20science%20%26%20engineering.) (computer science), and currently I am a student at [NTNU](https://www.ntnu.edu/) persuing a M.Sc. in informatics, specializing in game technology. I'm writing a thesis about a mobile game I am developing together with a co-author, which aims to get the player to be more active and go outside.
 
 My bachelor's thesis was done in collaboration with the [Norwegian Defence Research Establishment](https://www.ffi.no/en), on the topic of reliable communication protocols for use in constrained military networks. The code and report can be found [here](https://github.com/Kurumiiw/Middleware/). 
 
@@ -11,11 +11,11 @@ I have previously worked as an intern at [Bekk](https://www.bekk.no/), a company
 
 ----
 
-Usually, you can find me doing something related to:
-- 💻 Front-end work (primarily React / Next)
-- 👨‍🔬 Computer architecture & low-level programming
-- 🪶 [Otaku](https://en.wikipedia.org/wiki/Otaku) related projects
-- 🚀 Simulation and graphical software
-- 🎮 Games, game development and music (usually, combined! 🥁 *I'm not a music composer though, I just really like music!*)
+Some of my interests are:
+- 💻 Full-stack development (Mostly React or Next.js + TypeScript for frontends and Spring + Kotlin for backends)
+- 👨‍🔬 High-performance, low-level programming in C and C++
+- 🚀 Simulation and computer graphics
+- 🎮 Game development & serious games mostly with well-established engines like Unity and Godot
 
-*Psst!* Want to get in touch? 👉 [ola@horgjacobsen.no](mailto:ola@horgjacobsen.no)
+
+*Psst!* Want to get in touch? 👉 `ola <at> horgjacobsen <dot> no`
